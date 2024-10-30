@@ -2,16 +2,16 @@
 
 # 基於區塊的嵌入式系統整合平台 (BIPES)
 
-> 斯拉格萊恩
+> 所有編程均使用區塊完成，這比傳統編碼更快、更安全，也是公認的趨勢。
 
 -   [詞彙表](./GLOSSARY.md)
 -   [參考](./REFERENCES.md)
 
 **執行摘要**
 
-文字
+使用 Google 的 BIPES[塊狀](https://github.com/vanHeemstraSystems/blockly-demo).
 
-## 100 - Introduction
+## 100 - 簡介
 
 看[README.md](./100/README.md)
 
