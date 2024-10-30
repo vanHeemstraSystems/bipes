@@ -1,6 +1,6 @@
 द्विपाद
 
-# एंबेडेड सिस्टम के लिए ब्लॉक आधारित एकीकृत प्लेटफार्म (बीआईपीईएस)
+# Block based Integrated Platform for Embedded Systems (BIPES)
 
 > स्लगलाइन
 
