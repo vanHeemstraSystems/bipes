@@ -1,5 +1,5 @@
-repository-name
-# Repository Name
+bipes
+# Block based Integrated Platform for Embedded Systems (BIPES)
 
 > Slugline
 
