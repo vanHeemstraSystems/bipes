@@ -1,28 +1,28 @@
 द्विपाद
 
-# Block based Integrated Platform for Embedded Systems (BIPES)
+# एंबेडेड सिस्टम के लिए ब्लॉक आधारित एकीकृत प्लेटफार्म (बीआईपीईएस)
 
-> स्लगलाइन
+> सभी प्रोग्रामिंग ब्लॉकों का उपयोग करके की जाती है, जो पारंपरिक कोडिंग की तुलना में तेज़ और सुरक्षित है, और एक मान्यता प्राप्त प्रवृत्ति है।
 
 -   [शब्दकोष](./GLOSSARY.md)
 -   [संदर्भ](./REFERENCES.md)
 
 **कार्यकारी सारांश**
 
-मूलपाठ
+Google के BIPES का उपयोग करें[ब्लॉकली](https://github.com/vanHeemstraSystems/blockly-demo).
 
-## 100 - परिचय
+## 100 - Introduction
 
-देखना[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 - आवश्यकताएँ
 
 देखना[README.md](./200/README.md)
 
-## 300 - हमारे एप्लिकेशन का निर्माण
+## 300 - Building Our Application
 
 देखना[README.md](./300/README.md)
 
-## 400 - निष्कर्ष
+## 400 - Conclusion
 
 देखना[README.md](./400/README.md)
