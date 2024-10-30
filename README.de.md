@@ -1,4 +1,4 @@
-bipes
+Zweibeiner
 
 # Blockbasierte integrierte Plattform für eingebettete Systeme (BIPES)
 
@@ -11,7 +11,7 @@ bipes
 
 Text
 
-## 100 - Introduction
+## 100 - Einführung
 
 Sehen[README.md](./100/README.md)
 
