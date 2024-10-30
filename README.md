@@ -1,14 +1,14 @@
 bipes
 # Block based Integrated Platform for Embedded Systems (BIPES)
 
-> Slugline
+> All programming is done using blocks, which is faster and safer than traditional coding, and a recognized trend.
 
 - [Glossary](./GLOSSARY.md)
 - [References](./REFERENCES.md)
 
 **Executive Summary**
 
-Text
+BIPES uses Google's [Blockly](https://github.com/vanHeemstraSystems/blockly-demo).
 
 ## 100 - Introduction
 
