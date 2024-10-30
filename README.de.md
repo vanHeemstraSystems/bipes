@@ -2,14 +2,14 @@ Zweibeiner
 
 # Blockbasierte integrierte Plattform für eingebettete Systeme (BIPES)
 
-> Slugline
+> Die gesamte Programmierung erfolgt mithilfe von Blöcken, was schneller und sicherer als herkömmliches Codieren ist und ein anerkannter Trend ist.
 
 -   [Glossar](./GLOSSARY.md)
 -   [Referenzen](./REFERENCES.md)
 
 **Zusammenfassung**
 
-Text
+Verwenden Sie Googles BIPES[Blockhaft](https://github.com/vanHeemstraSystems/blockly-demo).
 
 ## 100 - Einführung
 
