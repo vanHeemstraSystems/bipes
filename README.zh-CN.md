@@ -2,14 +2,14 @@ bipes
 
 # 基于块的嵌入式系统集成平台 (BIPES)
 
-> 斯拉格莱恩
+> Slugline
 
 -   [词汇表](./GLOSSARY.md)
 -   [参考](./REFERENCES.md)
 
 **执行摘要**
 
-文本
+Text
 
 ## 100 - 简介
 
