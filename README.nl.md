@@ -1,8 +1,8 @@
-tweevoeters
+bipes
 
 # Blokgebaseerd geïntegreerd platform voor ingebedde systemen (BIPES)
 
-> Slaklijn
+> Slugline
 
 -   [Glossarium](./GLOSSARY.md)
 -   [Referenties](./REFERENCES.md)
