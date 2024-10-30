@@ -1,6 +1,6 @@
-nom du référentiel
+bipèdes
 
-# Nom du référentiel
+# Plateforme intégrée basée sur des blocs pour systèmes embarqués (BIPES)
 
 > Slugline
 
@@ -11,7 +11,7 @@ nom du référentiel
 
 Texte
 
-## 100 - Introduction
+## 100 - Présentation
 
 Voir[README.md](./100/README.md)
 
