@@ -1,6 +1,6 @@
-nombre-repositorio
+bípedos
 
-# Nombre del repositorio
+# Plataforma Integrada basada en bloques para Sistemas Embebidos (BIPES)
 
 > línea de bala
 
