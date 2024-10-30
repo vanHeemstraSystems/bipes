@@ -9,11 +9,11 @@
 
 **执行摘要**
 
-BIPES uses Google's [块状](https://github.com/vanHeemstraSystems/blockly-demo).
+使用 Google 的 BIPES[Blockly](https://github.com/vanHeemstraSystems/blockly-demo).
 
 ## 100 - 简介
 
-看[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 - 要求
 
