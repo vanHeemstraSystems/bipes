@@ -1,27 +1,27 @@
 ذو قدمين
 
-# Block based Integrated Platform for Embedded Systems (BIPES)
+# النظام الأساسي المتكامل للأنظمة المدمجة (BIPES)
 
-> سلوجلاين
+> تتم جميع البرمجة باستخدام الكتل، وهي أسرع وأكثر أمانًا من البرمجة التقليدية، وهي اتجاه معترف به.
 
 -   [مسرد](./GLOSSARY.md)
 -   [مراجع](./REFERENCES.md)
 
-**Executive Summary**
+**ملخص تنفيذي**
 
-نص
+استخدم BIPES من جوجل[ممتلئ](https://github.com/vanHeemstraSystems/blockly-demo).
 
 ## 100- مقدمة
 
 يرى[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 - المتطلبات
 
 يرى[README.md](./200/README.md)
 
 ## 300 – بناء تطبيقنا
 
-See [README.md](./300/README.md)
+يرى[README.md](./300/README.md)
 
 ## 400 - الخاتمة
 
