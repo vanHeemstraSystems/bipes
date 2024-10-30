@@ -9,7 +9,7 @@ tweevoeters
 
 **Samenvatting**
 
-BIPES uses Google's [Blokkerig](https://github.com/vanHeemstraSystems/blockly-demo).
+Gebruik de BIPES van Google[Blokkerig](https://github.com/vanHeemstraSystems/blockly-demo).
 
 ## 100 - Inleiding
 
