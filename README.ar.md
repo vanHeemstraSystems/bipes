@@ -1,6 +1,6 @@
-اسم المستودع
+ذو قدمين
 
-# اسم المستودع
+# Block based Integrated Platform for Embedded Systems (BIPES)
 
 > سلوجلاين
 
