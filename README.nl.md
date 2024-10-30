@@ -1,15 +1,15 @@
-bipes
+tweevoeters
 
 # Blokgebaseerd geïntegreerd platform voor ingebedde systemen (BIPES)
 
-> Slugline
+> Alle programmering gebeurt met behulp van blokken, wat sneller en veiliger is dan traditionele codering, en een erkende trend.
 
 -   [Glossarium](./GLOSSARY.md)
 -   [Referenties](./REFERENCES.md)
 
 **Samenvatting**
 
-Tekst
+BIPES uses Google's [Blokkerig](https://github.com/vanHeemstraSystems/blockly-demo).
 
 ## 100 - Inleiding
 
