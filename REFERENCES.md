@@ -1,3 +1,3 @@
 # References
 
-- [Reference Name](https://example.com)
+- [BIPES documentation](https://bipes.net.br/docs/index.html)
